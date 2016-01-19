@@ -1,6 +1,6 @@
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-# ${1:[SMF](http://www.simplemachines.org/) LDAP Plugin}
+# [SMF](http://www.simplemachines.org/) LDAP Plugin
 
 Small plugin I wrote to authenticate LDAP users with SMF forum. I never bothered to package this to SMF pugin format. This project is not maintained in any way.
 
